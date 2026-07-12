@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "Banco de Chile",
+        "logo": "logoBancoChile.png",
+        "link": "https://www.bancochile.cl/"
+    },
+    {
+        "nombre": "Banco Internacional",
+        "logo": "logoBancoInternacional.png",
+        "link": "https://www.internacional.cl/"
+    },
+    {
+        "nombre": "Banco de Credito e Inversiones",
+        "logo": "logoBancoBCI.png",
+        "link": "https://www.bci.cl/personas"
+    },
+    {
+        "nombre": "Banco BICE",
+        "logo": "logoBancoBice.png",
+        "link": "https://banco.bice.cl/personas"
+    },
+    {
+        "nombre": "HSBC BANK",
+        "logo": "logoHSBC.jpg",
+        "link": "https://www.about.hsbc.cl/"
+    },
+    {
+        "nombre": "Banco Santander Chile",
+        "logo": "logoBancoSantander.jpg",
+        "link": "https://banco.santander.cl/"
+    },
+    {
+        "nombre": "Banco Itaú Chile",
+        "logo": "logoItau.jpg",
+        "link": "https://www.itau.cl/personas"
+    },
+    {
+        "nombre": "Banco Falabella",
+        "logo": "logoBancoFalabella.png",
+        "link": "https://www.bancofalabella.cl/"
+    },
+    {
+        "nombre": "Banco Ripley",
+        "logo": "logoBancoRipley.jpg",
+        "link": "https://www.bancoripley.cl/"
+    },
+    {
+        "nombre": "Tenpo Bank Chile",
+        "logo": "logoTempo.png",
+        "link": "https://www.tenpo.cl/"
+    },
+    {
+        "nombre": "Scotiabank Chile",
+        "logo": "logoScotiabank.jpg",
+        "link": "https://www.scotiabankchile.cl/"
+    },
+    {
+        "nombre": "Banco del Estado de Chile",
+        "logo": "logoBancoEstado",
+        "link": "https://www.bancoestado.cl"
+    }
+]
