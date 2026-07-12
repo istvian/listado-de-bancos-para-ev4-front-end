@@ -46,7 +46,7 @@
     },
     {
         "nombre": "Tenpo Bank Chile",
-        "logo": "logoTempo.png",
+        "logo": "logoTenpo.png",
         "link": "https://www.tenpo.cl/"
     },
     {
@@ -56,7 +56,7 @@
     },
     {
         "nombre": "Banco del Estado de Chile",
-        "logo": "logoBancoEstado",
+        "logo": "logoBancoEstado.png",
         "link": "https://www.bancoestado.cl"
     }
 ]
